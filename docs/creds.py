@@ -1,3 +1,3 @@
 # creds.py
-username = "your_22bet_username"
-password = "your_22bet_password"
+username = "1236649015"
+password = "adah9d2v"

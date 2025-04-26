@@ -24,4 +24,4 @@ jobs:
 
       - name: Run Scraper
         run: |
-          python scrape.py
+          python docs/scrape.py
